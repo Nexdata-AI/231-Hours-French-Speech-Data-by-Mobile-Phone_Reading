@@ -1,8 +1,10 @@
 # 231-Hours-French-Speech-Data-by-Mobile-Phone_Reading
-https://www.datatang.ai/datasets/114
+
 
 ## Description
 The data volume is 231 hours and is recorded by 406 speakers (from French, Canada, and Africa). The recording is in quiet environment and rich in content. It contains various fields like economics, entertainment, news, and spoken language. All texts are manually transcribed. The sentence accuracy rate is 95%.
+
+For more details, please refer to the link: https://bit.ly/3dJ9wrk
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -30,3 +32,6 @@ text, time point of speech data, 5 noise symbols, special identifiers
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
