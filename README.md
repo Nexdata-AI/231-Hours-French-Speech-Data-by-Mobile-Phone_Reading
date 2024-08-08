@@ -4,7 +4,7 @@
 ## Description
 The data volume is 231 hours and is recorded by 406 speakers (from French, Canada, and Africa). The recording is in quiet environment and rich in content. It contains various fields like economics, entertainment, news, and spoken language. All texts are manually transcribed. The sentence accuracy rate is 95%.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/114?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/114?source=Github
 
 
 ## Format
